@@ -106,6 +106,7 @@
   ![MockK](https://img.shields.io/badge/mockk-f77645?style=for-the-badge)&nbsp;
   ![Mockito](https://img.shields.io/badge/mockito-b4ccb8?style=for-the-badge)&nbsp;
   ![Espresso](https://img.shields.io/badge/espresso-43a543?style=for-the-badge&logo=android&logoColor=ffffff)&nbsp;
+  ![Barista](https://img.shields.io/badge/barista-f1f1f1?style=for-the-badge)&nbsp;
   ![XCTest](https://img.shields.io/badge/xctest-757575?style=for-the-badge&logo=apple&logoColor=ffffff)
 
 <br>
@@ -120,9 +121,9 @@
 
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <br>
 

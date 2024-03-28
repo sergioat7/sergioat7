@@ -15,7 +15,8 @@
     - Bachelor's degree in Computer science and engineering
     - Master's degree in Mobile computing
     - Android Kotlin Developer - Nanodegree program [<img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6" alt="Udacity" />](https://confirm.udacity.com/EK9ADWSN)
-    - Android TDD Masterclass [<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udacity" />](https://www.udemy.com/share/103LUQ3@4DT49jwvaUWwdvXMOJv1iSMyRGigY-B8x)
+    - Android TDD Masterclass [<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udacity" />](https://www.udemy.com/certificate/UC-7f0984ee-696b-475e-a7e0-4be1894e00db/)
+    - Jetpack Compose [<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udacity" />](https://www.udemy.com/certificate/UC-ccee6866-7816-4bc0-8841-5ef51b469b0e/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
  
 <br>
 

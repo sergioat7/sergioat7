@@ -17,6 +17,7 @@
     - Android Kotlin Developer - Nanodegree program [<img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6" alt="Udacity" />](https://confirm.udacity.com/EK9ADWSN)
     - Android TDD Masterclass [<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udacity" />](https://www.udemy.com/certificate/UC-7f0984ee-696b-475e-a7e0-4be1894e00db/)
     - Jetpack Compose [<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udacity" />](https://www.udemy.com/certificate/UC-ccee6866-7816-4bc0-8841-5ef51b469b0e/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+    - Kotlin Expert
  
 <br>
 
@@ -51,15 +52,17 @@
     
 - **IDEs**:
 
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     
 <br>  
     
 - **Databases**:
 
   ![Room](https://img.shields.io/badge/room-43a543?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Core Data](https://img.shields.io/badge/core%20data-757575?style=for-the-badge&logo=apple&logoColor=white)
     
 <br> 
@@ -78,7 +81,9 @@
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+  ![KMP](https://img.shields.io/badge/KMP-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <br>
 

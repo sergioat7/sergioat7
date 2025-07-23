@@ -18,6 +18,9 @@
     - Android TDD Masterclass [<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udacity" />](https://www.udemy.com/certificate/UC-7f0984ee-696b-475e-a7e0-4be1894e00db/)
     - Jetpack Compose [<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udacity" />](https://www.udemy.com/certificate/UC-ccee6866-7816-4bc0-8841-5ef51b469b0e/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
     - Kotlin Expert
+    - Compose Expert
+    - Jetpack Compose and Internals
+    - Accessibility Expert
  
 <br>
 
@@ -46,7 +49,6 @@
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
 <br>   
     
@@ -120,6 +122,7 @@
 - **AI**:
 
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
 <br>
 
